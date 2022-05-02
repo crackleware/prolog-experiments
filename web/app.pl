@@ -20,7 +20,7 @@ wrapper(CurrentPage, Doc) => div([
       background: black;
       color: orange;
       font-size: 1.1em;
-      border: solid 1px green;
+      border: solid 1px black;
     }
     button:hover { border: solid 1px; }
   '),
