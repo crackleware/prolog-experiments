@@ -4,7 +4,7 @@ This is small single-page web application library currently implemented using ht
 
 Before experimenting with advanced functionality like:
 
-- automatically supported voice control interface
+- automatically supported chat/voice control interface
 
 - machine understanding of arbitrary web page by auto combining components from Prolog specified component library
 
