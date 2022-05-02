@@ -52,7 +52,7 @@ counter(State) => wrapper(counter, div([
   div(['count: ', State])
 ])).
 
-%%% todolist page
+%% todolist page
 
 update(show(todolist), _, todolist([
   todo('buy milk', active),
