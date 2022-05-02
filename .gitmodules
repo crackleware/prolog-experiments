@@ -1,0 +1,3 @@
+[submodule "web/tau-prolog"]
+	path = web/tau-prolog
+	url = https://github.com/tau-prolog/tau-prolog
