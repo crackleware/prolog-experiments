@@ -12,7 +12,7 @@ We need to speed-up execution of Prolog engine.
 
 To develop:
 
-git clone --recurse-submodules ~/work/my/prolog-experiments
+git clone --recurse-submodules https://github.com/crackleware/prolog-experiments
 cd prolog-experiments/web
 nix develop -c sh -c '$live_serve'
 
